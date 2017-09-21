@@ -1,16 +1,4 @@
-body {
+body, .jumbotron {
     padding: 30px;
-}
-
-.jumbotron {
-    padding: 30px;
-    border: 1px solid black;
-}
-
-.text-giant {
-    font-size: 40px;
-}
-
-.total_name {
-    text-decoration: underline;
+    font-size: 120px;
 }
